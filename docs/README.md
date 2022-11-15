@@ -10,8 +10,9 @@ polygons~ is a fifteen-minute experimental audiovisual AR improvisation using an
 NB: This repository uses [_polaris~_](https://github.com/sambilbow/polaris) as a Unity project template.
 
 ## Performances
-[<img alt="area demo" width="350px" src="rosehill-video.png" />](https://www.youtube.com/watch?v=SPd-f2EXuIQ)
-[<img alt="area demo" width="350px" src="acca-video.png" />](https://www.youtube.com/watch?v=SPd-f2EXuIQ)
+[![{emute_06 @ The Rosehill}](https://ytcards.demolab.com/?id=9IErsDvhXjM&title=emute_06+@+The+Rosehill&lang=en&timestamp=1645292340&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "emute_06 @ The Rosehill")](https://youtu.be/9IErsDvhXjM)
+<!-- [![{MAH Showcase @ The ACCA}](https://ytcards.demolab.com/?id=x&title=MAH Showcase+@+The+ACCA&lang=en&timestamp=1654709940&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "MAH Showcase @ The ACCA")](https://youtu.be/x) -->
+
 
 <details>
 <summary><h2>Inspiration and Similar Projects</h2></summary>
