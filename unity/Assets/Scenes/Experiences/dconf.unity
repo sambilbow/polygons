@@ -909,7 +909,7 @@ GameObject:
   - component: {fileID: 228169663}
   - component: {fileID: 228169664}
   m_Layer: 0
-  m_Name: rh_instr_click_m
+  m_Name: click+
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1820,7 +1820,7 @@ GameObject:
   - component: {fileID: 365379665}
   - component: {fileID: 365379666}
   m_Layer: 0
-  m_Name: rh_instr_hand_r
+  m_Name: hands_r
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12800,7 +12800,7 @@ GameObject:
   - component: {fileID: 1416407297}
   - component: {fileID: 1416407298}
   m_Layer: 0
-  m_Name: rh_instr_click_s
+  m_Name: click-
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17983,7 +17983,7 @@ GameObject:
   - component: {fileID: 1497396513}
   - component: {fileID: 1497396509}
   m_Layer: 0
-  m_Name: rh_instr_hand_l
+  m_Name: hands_l
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19044,7 +19044,7 @@ GameObject:
   - component: {fileID: 1994067553}
   - component: {fileID: 1994067552}
   m_Layer: 0
-  m_Name: rh_instr_ambi
+  m_Name: ambi
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
