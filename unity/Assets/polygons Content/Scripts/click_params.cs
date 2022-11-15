@@ -39,7 +39,7 @@ public class click_params : MonoBehaviour
     }
 
     void OnTriggerEnter(Collider other){
-        if(other.gameObject.name == "rh_instr_click_s"){
+        if(other.gameObject.name == "click-"){
             // ps.Play();
             pdPatch.SendBang("patchOn");
             material.SetColor("_WireColor", new Color(0,115,255,255));
@@ -47,7 +47,7 @@ public class click_params : MonoBehaviour
     }
 
     void OnTriggerExit(Collider other){
-        if(other.gameObject.name == "rh_instr_click_s"){
+        if(other.gameObject.name == "click-"){
             // ps.Stop();
             pdPatch.SendBang("patchOff");
             material.SetColor("_WireColor", new Color(255,255,255,255));            
@@ -55,7 +55,7 @@ public class click_params : MonoBehaviour
     }
 
     void OnTriggerStay (Collider other){
-        if(other.gameObject.name == "rh_instr_click_s"){
+        if(other.gameObject.name == "click-"){
             collision_point_s = this.transform.InverseTransformPoint(other.transform.position);
             collision_point_s.x = Mathfs.Abs(collision_point_s.x*2);
             collision_point_s.y = Mathfs.Abs(collision_point_s.y*2);
