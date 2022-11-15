@@ -6,6 +6,7 @@ As a direct consequence of witnessing participants enjoyment and play with [_pol
 polygons~ is a fifteen-minute experimental audiovisual AR improvisation using an AR performance ecosystem including three instruments: ambi, click-+, and hands.
 
 [Project Link](https://sambilbow.com/projects/polygons)
+
 NB: This repository uses [_polaris~_](https://github.com/sambilbow/polaris) as a Unity project template.
 
 ## Performances
