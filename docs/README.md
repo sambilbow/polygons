@@ -1,4 +1,5 @@
 # polygons~ - Developing a Sound ARt Performance Practice
+<img src="demo.gif" width="1040"/>
 ## Summary
 
 As a direct consequence of witnessing participants enjoyment and play with [_polaris~_](https://github.com/sambilbow/polaris), I recognised for the first time looking from the outside in, that the system had a larger propensity for fostering learning, virtuosity, and depth of expression than I had originally thought; if only the experience was slightly more complex, the interactions more _nuanced_. The gestures, play, and expression by participants led to a kind of quasi-transhumanist dance, one that struck me as a technologically mediated dialogue between hybrid self and hybrid environment, a delicate balance of agency.
