@@ -1,15 +1,11 @@
 # polygons~ - Developing a Sound ARt Performance Practice
 ## Summary
 
-As a direct consequence of witnessing participants enjoyment and play with [polaris~](https://github.com/sambilbow/polaris), I recognised for the first time looking from the outside in, that the system had a larger propensity for fostering learning, virtuosity, and depth of expression than I had originally thought; if only the experience was slightly more complex, the interactions more \textit{nuanced}. The gestures, play, and expression by participants led to a kind of quasi-transhumanist dance, one that struck me as a technologically mediated dialogue between hybrid self and hybrid environment, a delicate balance of agency.
+As a direct consequence of witnessing participants enjoyment and play with [polaris~](https://github.com/sambilbow/polaris), I recognised for the first time looking from the outside in, that the system had a larger propensity for fostering learning, virtuosity, and depth of expression than I had originally thought; if only the experience was slightly more complex, the interactions more \nuanced. The gestures, play, and expression by participants led to a kind of quasi-transhumanist dance, one that struck me as a technologically mediated dialogue between hybrid self and hybrid environment, a delicate balance of agency.
 
 polygons~ is a fifteen-minute experimental audiovisual AR improvisation using an AR performance ecosystem including three instruments: ambi, click-+, and hands.
 
-
-
 [Project Link](https://sambilbow.com/projects/polygons)
-
-[Performance Link](https://youtube.com/@sambilbow)
 
 ## Performances
 [<img alt="area demo" width="350px" src="rosehill-video.png" />](https://www.youtube.com/watch?v=SPd-f2EXuIQ)
