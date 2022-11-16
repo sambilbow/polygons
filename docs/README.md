@@ -12,8 +12,8 @@ polygons~ is a fifteen-minute experimental audiovisual AR improvisation using an
 NB: This repository uses [_polaris~_](https://github.com/sambilbow/polaris) as a Unity project template.
 
 ## Performances
-[![{emute_06 @ The Rosehill}](https://ytcards.demolab.com/?id=9IErsDvhXjM&title=emute_06+@+The+Rosehill&lang=en&timestamp=1645292340&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "emute_06 @ The Rosehill")](https://youtu.be/9IErsDvhXjM)
-<!-- [![{MAH Showcase @ The ACCA}](https://ytcards.demolab.com/?id=x&title=MAH Showcase+@+The+ACCA&lang=en&timestamp=1654709940&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "MAH Showcase @ The ACCA")](https://youtu.be/x) -->
+[![{emute_06 @ The Rosehill}](https://ytcards.demolab.com/?id=9IErsDvhXjM&title=emute_06+@+The+Rosehill&lang=en&timestamp=1645292340&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1049 "emute_06 @ The Rosehill")](https://youtu.be/9IErsDvhXjM)
+[![{MAH Showcase @ The ACCA}](https://ytcards.demolab.com/?id=zOeXI_WvzJA&title=MAH+Showcase+@+The+ACCA&lang=en&timestamp=1654709940&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1009 "MAH Showcase @ The ACCA")](https://youtu.be/zOeXI_WvzJA)
 
 
 <details>
