@@ -1879,8 +1879,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   patchName: main
-  patchDir: /PdAssets/dconf_hands/
-  patch: {fileID: 102900000, guid: f860243278db17541b737d0d7269716a, type: 3}
+  patchDir: /PdAssets/hands/
+  patch: {fileID: 102900000, guid: 121f6bd4a70645f4babb0d4a7705f105, type: 3}
   pipePrintToConsole: 0
   pureDataEvents:
     Bang:
@@ -12796,9 +12796,9 @@ GameObject:
   - component: {fileID: 1416407293}
   - component: {fileID: 1416407292}
   - component: {fileID: 1416407291}
-  - component: {fileID: 1416407290}
   - component: {fileID: 1416407297}
   - component: {fileID: 1416407298}
+  - component: {fileID: 1416407290}
   m_Layer: 0
   m_Name: click-
   m_TagString: Untagged
@@ -12834,7 +12834,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   patchName: main
-  patchDir: /PdAssets/polaris_rosehill_5_click/
+  patchDir: /PdAssets/click+-/
   patch: {fileID: 102900000, guid: 2faa57591240deb46ad781599ddf1d95, type: 3}
   pipePrintToConsole: 0
   pureDataEvents:
@@ -18016,8 +18016,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   patchName: main
-  patchDir: /PdAssets/dconf_hands/
-  patch: {fileID: 102900000, guid: f860243278db17541b737d0d7269716a, type: 3}
+  patchDir: /PdAssets/hands/
+  patch: {fileID: 102900000, guid: 121f6bd4a70645f4babb0d4a7705f105, type: 3}
   pipePrintToConsole: 0
   pureDataEvents:
     Bang:
@@ -19037,12 +19037,12 @@ GameObject:
   - component: {fileID: 1994067550}
   - component: {fileID: 1994067549}
   - component: {fileID: 1994067556}
-  - component: {fileID: 1994067555}
   - component: {fileID: 1994067557}
   - component: {fileID: 1994067558}
   - component: {fileID: 1994067554}
   - component: {fileID: 1994067553}
   - component: {fileID: 1994067552}
+  - component: {fileID: 1994067555}
   m_Layer: 0
   m_Name: ambi
   m_TagString: Untagged
@@ -19210,7 +19210,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   patchName: main
-  patchDir: /PdAssets/polaris_rosehill_4_ambi/
+  patchDir: /PdAssets/ambi/
   patch: {fileID: 102900000, guid: c9850349ffacad043b26c5c92d6f0965, type: 3}
   pipePrintToConsole: 0
   pureDataEvents:
