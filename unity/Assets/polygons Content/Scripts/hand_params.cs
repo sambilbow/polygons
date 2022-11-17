@@ -36,7 +36,7 @@ public class hand_params : MonoBehaviour
     {
         //maths
         //GO POS
-        if(this.gameObject.name == "rh_instr_hand_l"){
+        if(this.gameObject.name == "hands_l"){
             this.transform.position =hand_l.transform.position;
             var scr = hand_model_l.GetComponent<PalmDirection>();
             angleTo = scr.angleTo;
@@ -52,7 +52,7 @@ public class hand_params : MonoBehaviour
             //Debug.Log(extensionFactor);
         }
         
-        if(this.gameObject.name == "rh_instr_hand_r"){
+        if(this.gameObject.name == "hands_r"){
             this.transform.position =hand_r.transform.position;
             var scr = hand_model_r.GetComponent<PalmDirection>();
             angleTo = scr.angleTo;
