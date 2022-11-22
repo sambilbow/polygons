@@ -1,19 +1,36 @@
-# polygons~ - Developing a Sound ARt Performance Practice
-<img src="demo.gif" width="1040"/>
+<div align="center">
 
-## Summary
+# `polygons~`
+
+<img src="demo.gif" width="680"/>
+
+**Developing a Sound ARt Performance Practice**
+
+
+
+[![Platform](https://img.shields.io/badge/Platform-Windows-yellow?style=flat-square&logo=windows)](https://www.microsoft.com/en-gb/windows/)
+[![Environment](https://img.shields.io/badge/Environment-Unity-orange?style=flat-square&logo=unity&logoColor=white)](https://unity.com/)
+[![Performance](https://img.shields.io/badge/Performances-Playlist-green?style=flat-square&logo=actigraph&logoColor=white)](https://www.youtube.com/watch?v=zOeXI_WvzJA&list=PLA1CN3oynXG32NicEi72nnXsIp1anyWSr)
+[![Documentation](https://img.shields.io/badge/Guide-TBA-red?style=flat-square&logo=todoist&logoColor=white)](https://github.com/sambilbow/area/wiki)
+[![Project](https://img.shields.io/badge/Project-Blog-blue?style=flat-square&logo=jekyll&logoColor=white)](https://sambilbow.com/projects/polygons/)
+[![Discord](https://img.shields.io/badge/Discord-XRt%20Space-%237289da.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/p3MmURSBV3)
+
+
+</div>
 
 As a direct consequence of witnessing participants enjoyment and play with [_polaris~_](https://github.com/sambilbow/polaris), I recognised for the first time looking from the outside in, that the system had a larger propensity for fostering learning, virtuosity, and depth of expression than I had originally thought; if only the experience was slightly more complex, the interactions more _nuanced_. The gestures, play, and expression by participants led to a kind of quasi-transhumanist dance, one that struck me as a technologically mediated dialogue between hybrid self and hybrid environment, a delicate balance of agency.
 
 polygons~ is a fifteen-minute experimental audiovisual AR improvisation using an AR performance ecosystem including three instruments: ambi, click-+, and hands.
 
-[Project Link](https://sambilbow.com/projects/polygons)
 
-NB: This repository uses [_polaris~_](https://github.com/sambilbow/polaris) as a Unity project template.
 
-## Performances
+<div align="center">
+<br>
+
 [![{MAH Showcase @ The ACCA}](https://ytcards.demolab.com/?id=zOeXI_WvzJA&title=MAH+Showcase+@+The+ACCA&lang=en&timestamp=1654709940&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1009 "MAH Showcase @ The ACCA")](https://youtu.be/zOeXI_WvzJA)
 [![{emute_06 @ The Rosehill}](https://ytcards.demolab.com/?id=9IErsDvhXjM&title=emute_06+@+The+Rosehill&lang=en&timestamp=1645292340&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1049 "emute_06 @ The Rosehill")](https://youtu.be/9IErsDvhXjM)
+
+</div>
 
 
 <details>
